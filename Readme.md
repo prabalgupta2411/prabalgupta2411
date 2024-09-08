@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **WebDev, DSA**
 
-- 📫 How to reach me **pravalgupta2002@gmail.com**
+- 📫 How to reach me **er.prabalgupta.2411@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://prabalgupta2411-myportfolio.vercel.app/static/media/Resume.19ea32dd476a3fe096c0.pdf)
 
