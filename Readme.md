@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pravalgupta2002@gmail.com**
 
-- 📄 Know about my experiences [https://prabalgupta2411.tiiny.site](https://prabalgupta2411.tiiny.site)
+- 📄 Know about my experiences [Resume](https://prabalgupta2411-myportfolio.vercel.app/static/media/Resume.19ea32dd476a3fe096c0.pdf)
 
 - ⚡ Fun fact **If you want to learn anything, just understand its meaning !!**
 
